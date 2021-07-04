@@ -1,0 +1,36 @@
+#modo{
+    width: 30px;
+    font-size: 70px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.dark{
+    background: rgb(4, 24, 27);
+}
+
+.dark h1{
+    color: white;
+}
+
+.dark .descripcion{
+    color: rgb(209, 208, 208);
+}
+.dark #modo{
+    color: orange;
+}
+.dark .card__perfil{
+    background: rgb(16, 43, 51);
+}
+.dark p{
+    color: rgb(211, 211, 211);
+}
+.dark h2{
+    color: white;
+}
+.dark .enlace{
+    background: rgb(13, 84, 117);
+}
+.dark .card__perfil:hover{
+    border: solid green 2px;
+}
